@@ -1,6 +1,6 @@
 (SwitchName as text) =>
 let 
-    DeviceTypeList = "", //delete in code used to stop errors
+    DeviceTypeList = "", //used to stop errors you can delete this line
     List_Lookup = List.Accumulate
     (
         DeviceTypeList,
